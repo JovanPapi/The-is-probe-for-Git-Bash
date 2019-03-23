@@ -20,5 +20,6 @@ pink
 and something else. gonna commit now
 
 GONNA COMMIT ONCE MORE 
+I MADE A CHANGE, I WILL TRY TO PULL THIS FROM GIT BASH NOW.
 
 
