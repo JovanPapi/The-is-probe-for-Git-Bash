@@ -1,1 +1,2 @@
 jas sum nesto
+dodavam plus nesto i pravam pull od git bash
